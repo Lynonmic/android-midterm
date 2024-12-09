@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Đăng Nhập</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login_message">Đăng nhập thành công</string>
+    <string name="Information_Empty">Thông tin chưa được điền vào!</string>
+    <string name="NotGrantPermission">Không lấy được quyền!</string>
+    <string name="DepartmentNotExists">Không tồn tại phòng ban</string>
+    <string name="deleteTitle">Xóa</string>
+    <string name="ConfirmDelete">Bạn có chắc chắn muốn xóa</string>
+    <string name="Yes">Có</string>
+    <string name="Cancel">Hủy</string>
+    <string name="InsertEmployeeSuccessfull">Thêm nhân viên thành công</string>
+    <string name="InsertEmployeeFail">Thêm nhân viên thất bại</string>
+    <string name="DeleteFail">Xóa thất bại!</string>
+    <string name="InvalidInformation">Thông tin không hợp lệ!</string>
+    <string name="LoginFail">Đăng nhập thất bại</string>
+    <string name="CanNotDelete">Không thể xóa!</string>
+
+</resources>

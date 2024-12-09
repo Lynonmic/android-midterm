@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="16dp">
+    <TextView
+        android:id="@+id/tvMaPb"
+        android:layout_width="0pt"
+        android:layout_height="wrap_content"
+        android:layout_weight=".4"
+        android:text="Mã phòng ban"
+        android:textColor="@color/navy"
+        android:textColorHint="@color/beige"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvTenPb"
+        android:layout_width="0pt"
+        android:layout_height="wrap_content"
+        android:layout_weight=".6"
+        android:text="Tên phòng ban"
+        android:textColor="@color/navy"
+        android:textSize="16sp" />
+
+</LinearLayout>

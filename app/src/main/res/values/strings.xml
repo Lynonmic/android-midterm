@@ -1,0 +1,19 @@
+<resources>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_message">Login successfully</string>
+    <string name="Information_Empty">Empty information</string>
+    <string name="NotGrantPermission">Permission not granted!</string>
+    <string name="DepartmentNotExists">Department not exists</string>
+    <string name="deleteTitle">Delete</string>
+    <string name="ConfirmDelete">Do you confirm to delete?</string>
+    <string name="Yes">Yes</string>
+    <string name="Cancel">Cancel</string>
+    <string name="InsertEmployeeSuccessfull">Insert Employee successfully!</string>
+    <string name="InsertEmployeeFail">Insert Employee fail!</string>
+    <string name="DeleteFail">Delete fail!</string>
+    <string name="InvalidInformation">Informatin invalid!</string>
+    <string name="LoginFail">Login fail!</string>
+    <string name="CanNotDelete">Can not delete!</string>
+</resources>
